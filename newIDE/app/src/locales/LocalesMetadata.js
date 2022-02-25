@@ -11,7 +11,7 @@ module.exports = [
     "languageCode": "ar_SA",
     "languageName": "Arabic",
     "languageNativeName": "اللغة العربية",
-    "translationRatio": 0.32607167955024596
+    "translationRatio": 0.3258959943780745
   },
   {
     "languageCode": "az_AZ",
@@ -23,7 +23,7 @@ module.exports = [
     "languageCode": "bg_BG",
     "languageName": "Bulgarian",
     "languageNativeName": "български език",
-    "translationRatio": 0.05094869992972595
+    "translationRatio": 0.05077301475755447
   },
   {
     "languageCode": "bn_BD",
@@ -35,31 +35,31 @@ module.exports = [
     "languageCode": "ca_ES",
     "languageName": "Catalan",
     "languageNativeName": "Català",
-    "translationRatio": 0.3369641602248771
+    "translationRatio": 0.3367884750527056
   },
   {
     "languageCode": "cs_CZ",
     "languageName": "Czech",
     "languageNativeName": "čeština",
-    "translationRatio": 0.15530569219957835
+    "translationRatio": 0.15513000702740687
   },
   {
     "languageCode": "da_DK",
     "languageName": "Danish",
     "languageNativeName": "dansk",
-    "translationRatio": 0.07097680955727337
+    "translationRatio": 0.07080112438510189
   },
   {
     "languageCode": "de_DE",
     "languageName": "German",
     "languageNativeName": "Deutsch",
-    "translationRatio": 0.7443780744905131
+    "translationRatio": 0.7442023893183416
   },
   {
     "languageCode": "el_GR",
     "languageName": "Greek",
     "languageNativeName": "Ελληνικά",
-    "translationRatio": 0.26563598032326075
+    "translationRatio": 0.26546029515108926
   },
   {
     "languageCode": "en",
@@ -77,13 +77,13 @@ module.exports = [
     "languageCode": "es_ES",
     "languageName": "Spanish",
     "languageNativeName": "Español",
-    "translationRatio": 0.9564300773014758
+    "translationRatio": 0.9562543921293043
   },
   {
     "languageCode": "fa_IR",
     "languageName": "Persian",
     "languageNativeName": "فارسی",
-    "translationRatio": 0.22839072382290937
+    "translationRatio": 0.2282150386507379
   },
   {
     "languageCode": "fi_FI",
@@ -95,13 +95,13 @@ module.exports = [
     "languageCode": "fil_PH",
     "languageName": "Filipino",
     "languageNativeName": "Mga Filipino",
-    "translationRatio": 0.4174279690794097
+    "translationRatio": 0.41725228390723823
   },
   {
     "languageCode": "fr_FR",
     "languageName": "French",
     "languageNativeName": "Français",
-    "translationRatio": 0.9829585382993675
+    "translationRatio": 0.982782853127196
   },
   {
     "languageCode": "ha_HG",
@@ -113,37 +113,37 @@ module.exports = [
     "languageCode": "he_IL",
     "languageName": "Hebrew",
     "languageNativeName": "עברית",
-    "translationRatio": 0.06184118060435695
+    "translationRatio": 0.06166549543218547
   },
   {
     "languageCode": "hi_IN",
     "languageName": "Hindi",
     "languageNativeName": "हिन्दी",
-    "translationRatio": 0.2703794799718904
+    "translationRatio": 0.2702037947997189
   },
   {
     "languageCode": "hu_HU",
     "languageName": "Hungarian",
     "languageNativeName": "magyar",
-    "translationRatio": 0.21416022487702036
+    "translationRatio": 0.21398453970484888
   },
   {
     "languageCode": "id_ID",
     "languageName": "Indonesian",
     "languageNativeName": "Bahasa Indonesia",
-    "translationRatio": 0.5604356992269852
+    "translationRatio": 0.5602600140548137
   },
   {
     "languageCode": "it_IT",
     "languageName": "Italian",
     "languageNativeName": "Italiano",
-    "translationRatio": 0.8984539704848911
+    "translationRatio": 0.8982782853127196
   },
   {
     "languageCode": "ja_JP",
     "languageName": "Japanese",
     "languageNativeName": "日本語",
-    "translationRatio": 0.9912157413914265
+    "translationRatio": 0.9910400562192551
   },
   {
     "languageCode": "km_KH",
@@ -155,7 +155,7 @@ module.exports = [
     "languageCode": "ko_KR",
     "languageName": "Korean",
     "languageNativeName": "한국어",
-    "translationRatio": 0.6419536191145467
+    "translationRatio": 0.6417779339423753
   },
   {
     "languageCode": "lt_LT",
@@ -179,7 +179,7 @@ module.exports = [
     "languageCode": "ms_MY",
     "languageName": "Malay",
     "languageNativeName": "Bahasa Malaysia",
-    "translationRatio": 0.04339423752635274
+    "translationRatio": 0.04321855235418126
   },
   {
     "languageCode": "my_MM",
@@ -191,19 +191,19 @@ module.exports = [
     "languageCode": "nl_NL",
     "languageName": "Dutch",
     "languageNativeName": "Nederlands",
-    "translationRatio": 0.34539704848910757
+    "translationRatio": 0.3452213633169361
   },
   {
     "languageCode": "no_NO",
     "languageName": "Norwegian",
     "languageNativeName": "Norsk",
-    "translationRatio": 0.17990161630358392
+    "translationRatio": 0.17972593113141255
   },
   {
     "languageCode": "pl_PL",
     "languageName": "Polish",
     "languageNativeName": "język polski",
-    "translationRatio": 0.8076247364722418
+    "translationRatio": 0.8074490513000703
   },
   {
     "languageCode": "pseudo_LOCALE",
@@ -215,13 +215,13 @@ module.exports = [
     "languageCode": "pt_BR",
     "languageName": "Brazilian Portuguese",
     "languageNativeName": "Português brasileiro",
-    "translationRatio": 0.9694307800421644
+    "translationRatio": 0.969255094869993
   },
   {
     "languageCode": "pt_PT",
     "languageName": "Portuguese",
     "languageNativeName": "Português",
-    "translationRatio": 0.45397048489107517
+    "translationRatio": 0.4537947997189037
   },
   {
     "languageCode": "ro_RO",
@@ -233,7 +233,7 @@ module.exports = [
     "languageCode": "ru_RU",
     "languageName": "Russian",
     "languageNativeName": "Русский",
-    "translationRatio": 0.9848910751932537
+    "translationRatio": 0.9847153900210822
   },
   {
     "languageCode": "si_LK",
@@ -245,37 +245,37 @@ module.exports = [
     "languageCode": "sk_SK",
     "languageName": "Slovak",
     "languageNativeName": "slovenčina",
-    "translationRatio": 0.25386507378777234
+    "translationRatio": 0.25368938861560086
   },
   {
     "languageCode": "sl_SI",
     "languageName": "Slovene",
     "languageNativeName": "slovenski jezik",
-    "translationRatio": 0.9896345748418833
+    "translationRatio": 0.9894588896697118
   },
   {
     "languageCode": "sq_AL",
     "languageName": "Albanian",
     "languageNativeName": "Shqip",
-    "translationRatio": 0.12947997189037241
+    "translationRatio": 0.12930428671820093
   },
   {
     "languageCode": "sr_CS",
     "languageName": "Serbian (Latin)",
     "languageNativeName": "srpski",
-    "translationRatio": 0.23383696416022492
+    "translationRatio": 0.23366127898805344
   },
   {
     "languageCode": "sr_SP",
     "languageName": "Serbian",
     "languageNativeName": "српски језик",
-    "translationRatio": 0.48348559381588196
+    "translationRatio": 0.4833099086437105
   },
   {
     "languageCode": "sv_SE",
     "languageName": "Swedish",
     "languageNativeName": "svenska",
-    "translationRatio": 0.20765987350667603
+    "translationRatio": 0.20748418833450455
   },
   {
     "languageCode": "th_TH",
@@ -287,13 +287,13 @@ module.exports = [
     "languageCode": "tr_TR",
     "languageName": "Turkish",
     "languageNativeName": "Türkçe",
-    "translationRatio": 0.6763879128601546
+    "translationRatio": 0.6762122276879832
   },
   {
     "languageCode": "uk_UA",
     "languageName": "Ukrainian",
     "languageNativeName": "Українська",
-    "translationRatio": 0.7930428671820098
+    "translationRatio": 0.7928671820098383
   },
   {
     "languageCode": "ur_PK",
@@ -317,18 +317,18 @@ module.exports = [
     "languageCode": "yo_NG",
     "languageName": "Yoruba",
     "languageNativeName": "Yorùbá",
-    "translationRatio": 0.4529163738580464
+    "translationRatio": 0.4527406886858749
   },
   {
     "languageCode": "zh_CN",
     "languageName": "Chinese Simplified",
     "languageNativeName": "简化字",
-    "translationRatio": 0.9927969079409698
+    "translationRatio": 0.9926212227687983
   },
   {
     "languageCode": "zh_TW",
     "languageName": "Chinese Traditional",
     "languageNativeName": "正體字",
-    "translationRatio": 0.286366830639494
+    "translationRatio": 0.2861911454673226
   }
 ];
