@@ -666,6 +666,22 @@ void GD_CORE_API BuiltinExtensionsImplementer::ImplementsCameraExtension(
       .SetDefaultValue("0");
 
   extension
+      .AddCondition("CameraZoom",
+                    _("Camera Zoom"),
+                    _("Compare the zoom of a camera on a layer."),
+                    _("the default Z order of objects created on _PARAM1_"),
+                    "",
+                    "res/conditions/layer24.png",
+                    "res/conditions/layer.png")
+      .AddCodeOnlyParameter("currentScene", "")
+      .AddParameter("layer", _("Layer (base layer if empty)"), "", true)
+      .SetDefaultValue("\"\"")
+      .AddParameter("expression", _("Camera number (default : 0)"), "", true)
+      .SetDefaultValue("0")
+      .UseStandardRelationalOperatorParameters("number")
+      .MarkAsAdvanced();
+
+  extension
       .AddExpression("LayerTimeScale",
                      _("Layer time scale"),
                      _("Returns the time scale of the specified layer."),
